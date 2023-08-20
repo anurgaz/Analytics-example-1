@@ -1,1 +1,1 @@
-Here's an example of one of my daily tasks. This task usually takes one working day to complete.
+Это пример написанной мною аналитики на задачу по отправке файла с детализацией произведенной очередной оплаты за рассрочку на email пользователя
